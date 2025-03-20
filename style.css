@@ -1,3 +1,16 @@
-h2 {
-    color: black;
+body {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
 }
