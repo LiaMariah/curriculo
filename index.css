@@ -11,6 +11,20 @@ ul {
     padding: 16px;
 }
 a {
-    color: #fff;
+    color: #13a12d;
     text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
+    border: 5px solid #841111;
+}
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: #841111;
 }
